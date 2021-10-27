@@ -1,0 +1,3 @@
+export const SET_USERS_DATA = "SET_USERS_DATA";
+export const EDIT_USER_DATA = "EDIT_USER_DATA";
+export const DELETE_USER_DATA = "DELETE_USER_DATA";
